@@ -5,7 +5,7 @@
 **NUID:**002309351
 
 ## Quick Links
-- 📹 **Video Demo:** [Link will be added after recording]
+- 📹 **Video Demo:** https://www.loom.com/share/acbf06c2099741ce8a00356a44c79e75
 - 📂 **GitHub Repository:** https://github.com/Rutug25/rag-teaching-project
 - 📧 **Contact:** gawad.r@northeastern.edu
 
@@ -23,7 +23,7 @@ This educational package teaches **Retrieval-Augmented Generation (RAG)** throug
 
 ## 🎥 Demo Video
 
-**[▶️ Watch the 10-Minute Show-and-Tell Video](https://youtube.com/your-video-link)**
+**[▶️ Watch the 10-Minute Show-and-Tell Video]https://www.loom.com/share/acbf06c2099741ce8a00356a44c79e75**
 
 Follow along as we explain, show, and guide you through building your own RAG system!
 
@@ -119,7 +119,7 @@ By completing this project, you'll be able to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rag-teaching-project.git
+git clone https://github.com/Rutug25/rag-teaching-project
 cd rag-teaching-project
 
 # Create virtual environment
@@ -367,7 +367,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Fork and clone the repo
-git clone https://github.com/yourusername/rag-teaching-project.git
+git clone https://github.com/Rutug25/rag-teaching-project
 
 # Install dev dependencies
 pip install -r requirements-dev.txt
@@ -427,7 +427,7 @@ If you use this project in your research or teaching, please cite:
   title = {RAG Demystified: A Complete Teaching Framework},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/rag-teaching-project}
+  url = {https://github.com/Rutug25/rag-teaching-project}
 }
 ```
 
