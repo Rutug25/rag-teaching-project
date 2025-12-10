@@ -1,5 +1,5 @@
 # INFO 7390 - Final Project Submission
-** Name:** Rutu Gawad  
+**Name:** Rutu Gawad  
 **Date:** December 9, 2025  
 **Project:** RAG Teaching Framework  
 **NUID:**002309351
@@ -67,12 +67,12 @@ Follow along as we explain, show, and guide you through building your own RAG sy
 
 This isn't just another RAG tutorial. Here's what makes it special:
 
-✅ **Learn by Building**: Complete working implementation from scratch  
-✅ **Progressive Complexity**: Start simple, add features incrementally  
-✅ **Production-Ready Patterns**: Industry best practices included  
-✅ **Comprehensive Materials**: Tutorial, video, exercises, and starter template  
-✅ **Interactive Demo**: See RAG in action with visual feedback  
-✅ **Evaluation Framework**: Learn to measure and improve quality  
+**Learn by Building**: Complete working implementation from scratch  
+**Progressive Complexity**: Start simple, add features incrementally  
+**Production-Ready Patterns**: Industry best practices included  
+**Comprehensive Materials**: Tutorial, video, exercises, and starter template  
+**Interactive Demo**: See RAG in action with visual feedback  
+**Evaluation Framework**: Learn to measure and improve quality  
 
 **Perfect for:**
 - Data science students learning LLM applications
@@ -215,7 +215,7 @@ Perfect for: Getting started quickly
 1. Watch the [demo video](#) (10 min)
 2. Run `python src/rag_system.py` (10 min)
 3. Complete `rag_starter.py` template (1-2 hours)
-4. ✅ You have a working RAG system!
+4. You have a working RAG system!
 
 ### 🚶 Standard Path (6-8 hours)
 Perfect for: Comprehensive understanding
@@ -224,7 +224,7 @@ Perfect for: Comprehensive understanding
 2. Watch demo video (10 min)
 3. Work through notebooks 01-05 (2 hours)
 4. Complete exercises 1-3 (2-3 hours)
-5. ✅ You understand RAG deeply!
+5. You understand RAG deeply!
 
 ### 🧗 Deep Dive (15-20 hours)
 Perfect for: Mastery and portfolio projects
@@ -233,7 +233,7 @@ Perfect for: Mastery and portfolio projects
 2. Finish all exercises including advanced (4 hours)
 3. Build custom RAG application (6-8 hours)
 4. Deploy to production (optional, 4+ hours)
-5. ✅ You're a RAG expert!
+5. You're a RAG expert!
 
 ---
 
@@ -268,7 +268,7 @@ Live web demo with:
 
 ---
 
-## 💻 Examples
+## Examples
 
 ### Example 1: Basic RAG Query
 
@@ -334,7 +334,7 @@ print(f"MRR: {metrics['mrr']:.2f}")
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 ### Core Documentation
 
@@ -351,7 +351,7 @@ print(f"MRR: {metrics['mrr']:.2f}")
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -383,7 +383,7 @@ black src/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -391,7 +391,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 ### Inspiration & Resources
 
@@ -404,53 +404,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - [Sentence Transformers](https://sbert.net) - Embedding models
   - [ChromaDB](https://trychroma.com) - Vector database
 
-- **Course**:
-  - INFO 7390: Advanced Data Science and Architecture
-  - Northeastern University
 
-### Special Thanks
-
-- Course instructor for creating this excellent final project
-- Anthropic for Claude (used for documentation assistance)
-- The open-source community for amazing tools
-
----
-
-## 📬 Contact & Support
-
-### Get Help
-
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/rag-teaching-project/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-teaching-project/discussions)
-- 📧 **Email**: your.email@example.com
-
-### Stay Connected
-
-- ⭐ Star this repo if you find it helpful!
-- 👀 Watch for updates and new features
-- 🔀 Fork to create your own version
-
----
-
-## 🗺️ Roadmap
-
-### Completed ✅
-
-- [x] Core RAG implementation
-- [x] Comprehensive tutorial
-- [x] Video walkthrough
-- [x] Interactive demo
-- [x] Evaluation framework
-- [x] Hands-on exercises
-
-### Coming Soon 🚧
-
-- [ ] Multi-language support
-- [ ] Advanced reranking techniques
-- [ ] Conversational RAG
-- [ ] Production deployment guide
-- [ ] Cloud integration examples
-- [ ] Fine-tuning embedding models
 
 ### Future Ideas 💭
 
@@ -461,18 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Industry case studies
 - [ ] Advanced optimization techniques
 
----
 
-## 📊 Project Stats
-
-- **Lines of Code**: ~2,000
-- **Documentation Pages**: 40+
-- **Video Length**: 10 minutes
-- **Exercises**: 4 with solutions
-- **Test Coverage**: 85%+
-- **Dependencies**: 6 core libraries
-
----
 
 ## 🎓 Citation
 
@@ -488,24 +431,14 @@ If you use this project in your research or teaching, please cite:
 }
 ```
 
----
 
-## ⚡ Quick Links
-
-- 📖 [Full Tutorial](docs/tutorial.md)
-- 🎥 [Video Walkthrough](#)
-- 💻 [Interactive Demo](src/interactive_demo.html)
-- 📝 [Exercises](exercises/)
-- 🐛 [Report Issues](issues/)
-
----
 
 <div align="center">
 
 **[⬆ Back to Top](#-rag-demystified-complete-teaching-framework)**
 
-Made with ❤️ for INFO 7390 | MIT License | © 2025
 
-**Happy Learning! 🚀**
+
+**Happy Learning!**
 
 </div>
