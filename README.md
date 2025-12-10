@@ -1,4 +1,15 @@
-# 🎓 RAG Demystified: Complete Teaching Framework
+# INFO 7390 - Final Project Submission
+** Name:** Rutu Gawad  
+**Date:** December 9, 2025  
+**Project:** RAG Teaching Framework  
+**NUID:**002309351
+
+## Quick Links
+- 📹 **Video Demo:** [Link will be added after recording]
+- 📂 **GitHub Repository:** https://github.com/Rutug25/rag-teaching-project
+- 📧 **Contact:** gawad.r@northeastern.edu
+
+---# 🎓 RAG Demystified: Complete Teaching Framework
 
 **Learn Retrieval-Augmented Generation by Building from Scratch**
 
